@@ -4,4 +4,5 @@ This repo is a clone of the original branch for 2.3.0 with some additional chang
 
 ### Changes
 
-* None
+* Updated boards.txt to remove non-Generic ESP support
+* Updated linker scripts to support 1M and 4M no SPIFFS
